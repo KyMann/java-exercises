@@ -1,10 +1,11 @@
-package src.org.launchcode.java.demos.java4python;
+package src.org.launchcode.java.demos;
 
 /**
  * From "Java for Python Programmers"
  */
-public class Hello {
+public class HelloService {
     public static void main(String[] args) {
+
         System.out.println("Hello, World");
     }
 }
